@@ -1,0 +1,12 @@
+		                                <article>
+											<a href="#" class="image"><img src="BOT_BILLEDE" alt="" /></a>
+											<h3 class="major">BOT_NAVN</h3>
+											<p>Prefix: BOT_PREFIX</p>
+											<p>DESCRIPTION
+												<a href="WEBSITE_LINKn (KUN_HVIS_BOTTEN_HAR)">Bot Website</a>
+												<br>
+												<a href="SERVER_LINK">Support Server(KUN_HVIS_BOTTEN_HAR)</a>
+											</p>
+											<a href="https://discord.com/oauth2/authorize?client_id=827836399255945217&permissions=8&scope=bot" class="special">Invite Bot</a>
+											
+										</article>

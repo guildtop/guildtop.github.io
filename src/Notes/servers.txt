@@ -1,0 +1,16 @@
+Danklattergas
+	<article>
+											<a href="#" class="image"><img src="../../images/dansk_lattergas.gif" alt="" /></a>
+											<h3 class="major">Dansk Lattergas</h3>
+											<p>
+												Her hos Dansk Lattergas har vi det allesammen sjovt, <br>
+												det handler om der skal være plads til alle. man kan snakke og skrive sammen <br>
+												og man kan få hjælp til nogle forskellige spil kom og vær med, <br>
+												vi har også en Minecraft Survival Server.<br>
+
+
+											</p>
+											
+											<a href="https://discord.gg/nHv2anUDnK" class="special">Join Server</a>
+										</article>
+										
