@@ -1,0 +1,1 @@
+var { helloworld } = require('cbxy')
